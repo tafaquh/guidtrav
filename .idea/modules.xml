@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GuidTrav.iml" filepath="$PROJECT_DIR$/GuidTrav.iml" />
+      <module fileurl="file://E:\Pens\Eksternal\Bismillah Dilo\Project\guidtrav\GuidTrav.iml" filepath="E:\Pens\Eksternal\Bismillah Dilo\Project\guidtrav\GuidTrav.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Pens\Eksternal\Bismillah Dilo\Project\guidtrav\app\app.iml" filepath="E:\Pens\Eksternal\Bismillah Dilo\Project\guidtrav\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guidtrav.iml" filepath="$PROJECT_DIR$/guidtrav.iml" />
     </modules>
   </component>
 </project>
